@@ -1,9 +1,9 @@
 
-# The Ytube Vedio for the Custom Data available at 
+# The Youtube Video for the Object Detection is available at 
 
 https://youtu.be/0z1uZ4wGdGA
 
-The Annotated Custom Images(out of the 500 images) predicted by Yolo is placed at:
+We have annotated 500 images. Samples of The Annotated Custom Images(out of the 500 images) predicted by Yolo is placed at:
 
 https://github.com/monimoyp/S13_Yolo_Object_Detection/tree/master/YoloV3/out_out    (100 Images)
 
